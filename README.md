@@ -31,9 +31,8 @@
 ## 💻 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSaldanha02&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSaldanha02&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
 </p>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
