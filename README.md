@@ -52,13 +52,6 @@ Estagiário Full-Stack na **SMN Tecnologia da Informação**, construindo APIs e
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GuilhermeSaldanha02&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeSaldanha02&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
 ## 📂 Projetos em destaque
 
 - 🏢 [audicon-web](https://github.com/GuilhermeSaldanha02/audicon-web) — Frontend do Audicon: gestão condominial inteligente, com IA para análise de infrações (Next.js + TypeScript)
