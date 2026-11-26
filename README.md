@@ -18,8 +18,8 @@ Desenvolvedor full stack júnior com foco em back-end. Na **Axion** desenvolvo a
 
 Uso assistentes de código (Claude Code e Codex) no dia a dia, sempre revisando o que é gerado.
 
-🎓 Sistemas para Internet — UNIESP (previsão 01/2028)
-☁️ AWS Certified Cloud Practitioner
+🎓 Sistemas para Internet — UNIESP (previsão 01/2028)<br>
+☁️ AWS Certified Cloud Practitioner<br>
 📍 João Pessoa - PB · aberto a vagas remotas ou em João Pessoa / Cabedelo
 
 ## 💼 Experiência
